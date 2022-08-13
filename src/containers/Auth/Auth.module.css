@@ -1,0 +1,9 @@
+.Auth {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%;
+    background: linear-gradient(to right, #f12711, #f5af19);
+    transition: .5s;
+}

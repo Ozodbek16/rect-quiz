@@ -1,0 +1,9 @@
+.Home {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%;
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+    transition: .5s;
+}
